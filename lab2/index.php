@@ -64,7 +64,7 @@ function calculation($num1, $char, $num2) {
 
     <h1>Задание 1</h1>
 
-    <form action="index.php" method="POST">
+    <form action="../lab2/index.php" method="POST">
         <input name="name" type="text" placeholder="Введите ФИО">
         <input name="address" type="text" placeholder="Введите адрес">
         <input name="email" type="text" placeholder="Введите Email">
@@ -96,7 +96,7 @@ function calculation($num1, $char, $num2) {
 
     <h1>Задание 3</h1>
 
-    <form action="index.php" method="POST">
+    <form action="../lab2/index.php" method="POST">
         <input name="to" type="text">
         <input name="subject" type="email">
         <textarea name="message" cols="30" rows="10"></textarea>
@@ -122,7 +122,7 @@ function calculation($num1, $char, $num2) {
 
     <h1>Задание 4</h1>
 
-    <form action="index.php" method="POST">
+    <form action="../lab2/index.php" method="POST">
         <input name="num1" type="text" placeholder="Введите первое число">
         <input name="char" type="text" placeholder="Введите знак">
         <input name="num2" type="text" placeholder="Введите второе число">
@@ -136,7 +136,7 @@ function calculation($num1, $char, $num2) {
 
     <h1>Задание 5</h1>
 
-    <form action="task5.php" method="POST">
+    <form action="../lab2/task5.php" method="POST">
         <h3>Введите данные о пользователе</h3>
         <input type="text" name="qName" placeholder="Введите имя">
         <input type="text" name="qBirdYear" placeholder="Введите год рождения">
@@ -146,7 +146,7 @@ function calculation($num1, $char, $num2) {
 
     <h1>Задание 6</h1>
 
-    <form action="index.php" method="POST">
+    <form action="../lab2/index.php" method="POST">
         <h3>На каком курсе вы обучаетесь:</h3>
         <input name="kurs" type="number" placeholder="Введите число">
         <h3>Сколько вам осталось учиться:</h3>
